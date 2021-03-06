@@ -44,7 +44,7 @@
           default-opened
           :content-inset-level="1"
         >
-            <q-item clickable v-ripple :to="{ name: 'Home' }">
+            <q-item clickable v-ripple :to="{ name: 'Message' }">
               <q-item-section avatar>
                 <q-icon name="mail" />
               </q-item-section>
